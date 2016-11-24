@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  WeatherViewController.h
 //  weathernyc
 //
 //  Created by Artur Lan on 11/24/16.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface WeatherViewController : UIViewController
 
 @end
-

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "983088870329C838F2714298990CF0D4FA85B02D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "983088870329C838F2714298990CF0D4FA85B02D" : 9223372036854775807,
+    "BC00B0370BF6CE50CF8D6B743E30CE9D4B9706A5" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F9C5B46A-FB3D-4707-B9ED-F9EE9D313F20",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "983088870329C838F2714298990CF0D4FA85B02D" : "weathernyc\/",
+    "BC00B0370BF6CE50CF8D6B743E30CE9D4B9706A5" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "weathernyc",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "weathernyc\/weathernyc.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/arturlan\/weathernyc.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "983088870329C838F2714298990CF0D4FA85B02D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/arturlan\/arturlan.github.io.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BC00B0370BF6CE50CF8D6B743E30CE9D4B9706A5"
+    }
+  ]
+}
